@@ -2,7 +2,7 @@
 
 ![Alt text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-My name is Tal Zichlinsky, I'm a second-year Computer Science BSc student at Ariel University. 
+My name is Tal Zichlinsky, I'm a Computer Science & Mathematics BSc student at Ariel University. 
 I'm making a great effort to keep this GitHub profile up to date with all my latest assignments and personal projects I'm working on, so you 
 could get a clue for what it's like being a CS student.
 
